@@ -1,0 +1,6 @@
+---
+applications:
+- name: kotlinsource
+  memory: 512M
+  host: kotlinsource
+  path: target/kotlin-source-0.0.1-SNAPSHOT.jar
